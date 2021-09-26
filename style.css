@@ -20,3 +20,12 @@ body {
     rgba(161, 172, 184, 1) 100%
   );
 }
+#game > p {
+  font-size: 2rem;
+}
+input#guess-btn {
+  background-color: midnightblue;
+  color: ivory;
+  font-weight: lighter;
+  letter-spacing: 2px;
+}
